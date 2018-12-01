@@ -1,0 +1,1 @@
+enum Songs { despacito, gangnamStyle, callMeMaybe, baby }
